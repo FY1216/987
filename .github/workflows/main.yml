@@ -19,7 +19,7 @@
 # 生日1
 "birthday1": {"baby": "A", "birthday": "2002-12-16"},
 # 生日2
-"birthday2": {"baby": "B", "birthday": "r2003-10-31"},
+"birthday2": {"baby": "B", "birthday": "2003-10-31"},
 # 在一起的日子，格式同上
 "love_date": "2022-04-14",
 # 金句中文，如果为空，默认会读取金山的每日金句
